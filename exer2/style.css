@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid {
+    background: #CDA5F3;
+    border: black solid 2px;
+    border-radius: 3px;
+}
+
+.col-sm {
+    border: black solid 2px;
+    border-radius: 3px;
+}
+.col-sm-2 {
+    border: black solid 2px;
+    border-radius: 3px;
+}
+.col-sm-4 {
+    border: black solid 2px;
+    border-radius: 3px;
+}
+.col-sm-6 {
+    border: black solid 2px;
+    border-radius: 3px;
+}
+
